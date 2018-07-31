@@ -9,7 +9,7 @@
 
 #row5 = ["   ", |, "   ", |, "   "]
 
-display_board = ["   ", |, "   ", |, "   ", -----------]
+display_board = ["   ", "|", "   ", "|", "   ", "-----------"]
 
 def first_tic_tac_toe
   puts display_board
