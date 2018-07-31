@@ -9,8 +9,8 @@
 
 #row5 = ["   ", |, "   ", |, "   "]
 
-display_board = ["   ", "|", "   ", "|", "   ", "-----------"]
+first_row = ["   ", "|", "   ", "|", "   ", "-----------"]
 
-def first_tic_tac_toe
-  puts display_board
+def display_board
+  puts first_row
 end
