@@ -9,8 +9,8 @@
 
 #row5 = ["   ", |, "   ", |, "   "]
 
-first_row = ["   "]
+
 
 def display_board
-  puts first_row
+  puts "   "
 end
